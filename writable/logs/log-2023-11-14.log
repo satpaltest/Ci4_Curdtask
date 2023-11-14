@@ -1,0 +1,107 @@
+INFO - 2023-11-14 15:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:23:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:23:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:30:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:30:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:31:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 15:31:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-14 15:46:02 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 15:46:16 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 15:46:37 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 15:47:25 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 15:48:45 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 15:58:09 --> include(common/nav.php): failed to open stream: No such file or directory
+in APPPATH\Views\tabledata.php on line 6.
+ 1 APPPATH\Views\tabledata.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(common/nav.php): failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ProjectCurd\\app\\Views\\tabledata.php', 6, [...])
+ 2 APPPATH\Views\tabledata.php(6): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ProjectCurd\\app\\Views\\tabledata.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('tabledata', [], true)
+ 6 APPPATH\Controllers\RecordController.php(17): view('tabledata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\RecordController->UserData()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecordController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 15:59:38 --> include(common/header.php): failed to open stream: No such file or directory
+in APPPATH\Views\tabledata.php on line 2.
+ 1 APPPATH\Views\tabledata.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(common/header.php): failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ProjectCurd\\app\\Views\\tabledata.php', 2, [...])
+ 2 APPPATH\Views\tabledata.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\ProjectCurd\\app\\Views\\tabledata.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('tabledata', [], true)
+ 6 APPPATH\Controllers\RecordController.php(17): view('tabledata', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\RecordController->UserData()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecordController))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+INFO - 2023-11-14 16:00:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-11-14 16:18:48 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 16:19:16 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+CRITICAL - 2023-11-14 16:20:15 --> Cannot call constructor
+in APPPATH\Controllers\RecordController.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\RecordController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
+INFO - 2023-11-14 16:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

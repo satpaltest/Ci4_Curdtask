@@ -1,0 +1,17 @@
+body {
+    background: #1e1930;
+    color: #d2d1d5;
+  }
+  tr:nth-child(even) {
+    background-color: #2e2649;
+  }
+  tr:nth-child(odd) {
+    background-color: #423b5b;
+  }
+  th {
+    background-color: #342f44;
+    color: white;
+  }
+  .noBorder {
+    border: none !important;
+  }
