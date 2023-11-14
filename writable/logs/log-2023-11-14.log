@@ -105,3 +105,5 @@ in APPPATH\Controllers\RecordController.php on line 16.
  4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
  5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\ProjectCurd\\public\\index.php')
 INFO - 2023-11-14 16:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 16:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-11-14 16:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
